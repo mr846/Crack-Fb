@@ -1,0 +1,7 @@
+# Example requirements.txt
+
+# Package 1
+package1==1.2.3
+
+# Package 2
+package2>=4.0.0,<5.0.0
